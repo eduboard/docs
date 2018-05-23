@@ -1,5 +1,5 @@
-# Eduboard 
-## Golang Gruppe
+# Eduboard
+## Golang-Gruppe
 
 Leo, Simon Frey, Phillip, Peter, Levi, , Anne Schmidt, Jannik
 
@@ -12,4 +12,3 @@ Leo, Simon Frey, Phillip, Peter, Levi, , Anne Schmidt, Jannik
 Vue.js|Gin-Gonic|
 |JS|Golang|
 |...|...|
-
