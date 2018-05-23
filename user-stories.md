@@ -19,6 +19,7 @@ As an administrator,
 # Course participants
 As a course participant,
 * I must not be able to access ‘internal’ features.
+* I want to have a group management tool that assorts me to a group according to my groupmate preferences but without letting anybody else know these preferences.
 
 # Others
 * The backend needs to be accessible via an API.
