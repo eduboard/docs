@@ -1,5 +1,8 @@
 # Users
 As a user,
+* I want to be able to register for the service.
+* I want to be able to login with my credentials.
+* I want to be able to edit my profile.
 * I want to access the pages of the courses of which I am a member.
 * I want to have access to a course overview page.
 * I want to receive invitations and new contributions also via e-mail.
