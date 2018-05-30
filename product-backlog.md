@@ -1,42 +1,23 @@
-# Product backlog
-
-This is the product backlog for eduboard. It is split into frontend and backend and ordered descendingly by importance
-
-## Backend
-* The backend needs the following capabilities:
-	* course creation/deletion/modification
-	* provision of course information
-	* user administration
-	* user authentication
-	* handling of access rights
-	* live chat or forum
-	* e-mail notifications for invitations and new contributions
-* Implement an authentication based API for accessing the backend data.
-* Implement access rights (incrementally):
-	* users:
-		* see pages of courses of which they are members
-		* see visible content of courses of which they are members
-		* participate in visible chats/forums of which they are members
-	* teachers:
-		* create, modify and delete courses of which they are owners
-		* see and access all content of courses of which they are members
-	* administrators:
-		* moderate any content of any courses
-		* create/modify/delete users
-		* create/modify/delete courses
-* Send e-mail notifications for new invitations.
-* Send e-mail notifications for new chat/forum contributions.
-* Implement a group matching tool based on private user preferences.
-
-## Frontend
-* Create course pages which contain:
-	* an overview page containing the course material
-	* a non-deletable course chat
-* Create a per-course administrative interface
-* Create an administrative interface that provides:
-	* course administration
-	* user administration
-* Make paid courses only visible to participants by invitation.
-* Give extra functionalities to administrators:
-	* chat/forum and course moderation
-* Give access to a group matching tool based on private user preferences.
+| ID 	| Story 	| Estimation 	| Priority 	|
+|----	|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|------------	|----------	|
+| 1 	| As a user I want to be able to register for the service 	|  	|  	|
+| 2 	| As a user I want to be able to login with my credentials. 	|  	|  	|
+| 3 	| As a user I want to be able to edit my profile. 	|  	|  	|
+| 4 	| As a user I want to access the pages of the courses of which I am a member. 	|  	|  	|
+| 5 	| As a user I want to have access to a course overview page. 	|  	|  	|
+| 6 	| As a user I want to receive invitations and new contributions also via e-mail. 	|  	|  	|
+| 7 	| As a teacher I want to be able to communicate with other teachers and the course participants. 	|  	|  	|
+| 8 	| As a teacher I want to have a way of communication with the other teachers which is invisible to the participants. 	|  	|  	|
+| 9 	| As a teacher I want to be able to create new courses which can be either paid or for free. 	|  	|  	|
+| 10 	| As a teacher I want to be able to make some course content ‘internal’, i. e. invisible to participants. 	|  	|  	|
+| 11 	| As an administrator I want to be able to moderate the communication between other users. 	|  	|  	|
+| 12 	| As an administrator I want to be able add, change and delete user profiles. 	|  	|  	|
+| 13 	| As a course participant I must not be able to access ‘internal’ features. 	|  	|  	|
+| 14 	| As a course participant I want to have a group management tool that assorts me to a group according to my groupmate preferences but without letting anybody else know these preferences. 	|  	|  	|
+| 15 	| As an external developer I want to access data of the eduboard via an API. 	|  	|  	|
+| 16 	| As an course participant I must only be able to access paid courses via an invitation. 	|  	|  	|
+|  	|  	|  	|  	|
+|  	|  	|  	|  	|
+|  	|  	|  	|  	|
+|  	|  	|  	|  	|
+|  	|  	|  	|  	|
