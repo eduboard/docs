@@ -7,7 +7,6 @@
 | 6 	| As a user I want to receive invitations and new contributions also via e-mail. 	| 18 	|  1	|
 | 17 	| As anybody, I need an Imprint 	|  5	| 1 	|
 | 18 	| As anybody, I need a Privacy Statement 	|  9	| 5 	|
-|---  |--- |--- |--- |
 | 15 	| As an external developer, I want to access data of the eduboard via an API. 	|  	|  	|
 | 9 	| As a teacher I want to be able to create new courses which can be either paid or for free. 	|  	|  	|
 | 12 	| As an administrator I want to be able add, change and delete user profiles. 	|  	|  	|
