@@ -4,7 +4,11 @@
 
 ### Sprint 1
 [Sprint Planning 1 Presentation](https://slides.com/l1am0/eduboard/fullscreen)
+
 [Sprint Review 1 Presentation](https://slides.com/l1am0/eduboard-2/fullscreen)
+
+### Sprint 2
+[Produktpräsentation 1](https://slides.com/l1am0/eduboard-3/fullscreen)
 
 ## Etherpads
 [Sprint Retrospective 1](https://public.etherpad-mozilla.org/p/dsafdsf24sd321098c)
