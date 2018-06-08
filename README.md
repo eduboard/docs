@@ -9,6 +9,7 @@
 
 ### Sprint 2
 [Produktpräsentation 1](https://slides.com/l1am0/eduboard-3/fullscreen)
+* [Protokoll: Anmerkungen zur 1. Präsentation](ProtokollProjektpräsentation1.md)
 
 ## Etherpads
 [Sprint Retrospective 1](https://public.etherpad-mozilla.org/p/dsafdsf24sd321098c)
