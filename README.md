@@ -12,8 +12,10 @@
 
 * [Protokoll: Anmerkungen zur 1. Präsentation](ProtokollProjektpräsentation1.md)
 
-[Sprint Review 1 Presentation](https://slides.com/l1am0/eduboard-4/fullscreen)
+[Sprint Review 2 Presentation](https://slides.com/l1am0/eduboard-4/fullscreen)
 
+### Sprint 2
+[Sprint Planing 3](https://slides.com/l1am0/eduboard-2-6)
 
 ## Etherpads
 [Sprint Retrospective 1](https://public.etherpad-mozilla.org/p/dsafdsf24sd321098c)
