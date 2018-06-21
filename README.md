@@ -14,8 +14,10 @@
 
 [Sprint Review 2 Presentation](https://slides.com/l1am0/eduboard-4/fullscreen)
 
-### Sprint 2
+### Sprint 3
 [Sprint Planing 3](https://slides.com/l1am0/eduboard-2-6)
+
+[Produktpräsentation 2](https://slides.com/l1am0/eduboard-4-6)
 
 ## Etherpads
 [Sprint Retrospective 1](https://public.etherpad-mozilla.org/p/dsafdsf24sd321098c)
